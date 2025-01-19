@@ -20,5 +20,5 @@ The project simulates a graph of cities, with each city represented as a vertex.
 ### Running the Code:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vallz0/Algoritmo-A-Estrela.git
-   cd Algoritmo-A-Estrela
+   git clone https://github.com/vallz0/A-star-Algorithm.git
+   cd A-star-Algorithm
